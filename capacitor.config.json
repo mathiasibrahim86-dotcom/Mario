@@ -1,0 +1,6 @@
+{
+  "appId": "com.ctamario.game",
+  "appName": "CTA Mario",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
